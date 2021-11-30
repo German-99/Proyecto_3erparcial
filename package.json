@@ -1,0 +1,25 @@
+{
+  "name": "Proyecto_3erparcial",
+  "version": "1.0.0",
+  "description": "Proyecto_3erparcial",
+  "main": "index.js",
+  "dependencies": {
+    "gh-pages": "^3.2.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "deploy": "gh-pages -d dist"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/German-99/Proyecto_3erparcial.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/German-99/Proyecto_3erparcial/issues"
+  },
+  "homepage": "https://github.com/German-99/Proyecto_3erparcial#readme"
+}
